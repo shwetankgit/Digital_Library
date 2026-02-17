@@ -34,3 +34,7 @@ DPL consists of the following libraries:
 ## 🚀 Usage of DPL ##
 <img width="872" height="598" alt="image" src="https://github.com/user-attachments/assets/101d7db3-6b54-45be-b3fd-f2b9204106f5" />
 
+## 📌 License ##
+This project is licensed under the MIT License.
+
+While not required, I would greatly appreciate it if you reference my webpage (https://shwetankgit.github.io) or this digital library in your work if you find this project useful.
